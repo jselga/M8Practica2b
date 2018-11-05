@@ -1,3 +1,3 @@
 <?
-echo "menu de php"
+echo "<b>menu de php</b>";
 ?>
