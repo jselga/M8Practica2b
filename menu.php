@@ -1,0 +1,3 @@
+<?
+echo "menu de php"
+?>
